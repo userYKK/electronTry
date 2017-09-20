@@ -15,5 +15,5 @@
 
  ---
 
->     √  1. webpack 添加 jshint 校验 preLoaders和postLoaders， npm install jshint-loader --save-dev
+>     √  1. electron-packager 打包 linux 失败
 

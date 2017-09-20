@@ -2,3 +2,4 @@ node_modules
 ES6/lib/
 build
 npm-debug.log
+dist
